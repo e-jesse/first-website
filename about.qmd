@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-Jesse Ekwuruibe
+## About Me
+My name is **Jesse Ekwuruibe** and I am a student at the *University of South Wales*, United Kingdom.
+
+[Kane's Data Science Bootcamp](https://bootcamp.davidkane.info)
